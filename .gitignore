@@ -1,0 +1,9 @@
+# Franklin
+__site/
+.DS_Store
+node_modules/
+package-lock.json
+
+# Other
+.vscode/
+Manifest.jl
